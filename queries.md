@@ -159,6 +159,7 @@ DELETE FROM jslibraries
 WHERE stars <= 10000;
 
 
+
 <br>
 
 **16. Delete all the records with less than 100 `releases`.**
